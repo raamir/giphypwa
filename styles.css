@@ -1,6 +1,7 @@
 .container {
     display: flex;
     flex-wrap: wrap;
+    background-color: #F4A460;
 }
 
 .center {
