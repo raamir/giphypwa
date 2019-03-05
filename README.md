@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://developers.giphy.com/">
-    <img alt="Giphy" src="https://developers.giphy.com/static/img/dev-logo-lg.7404c00322a8.gif" width="150" />
+    <img alt="Giphy" src="https://developers.giphy.com/static/img/dev-logo-lg.7404c00322a8.gif" width="300" />
   </a>
 </p>
 <h1 align="center">
